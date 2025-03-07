@@ -8,4 +8,4 @@ I’m Muh Fatwah Fajriansyah M, a traveler in the realm of 1s and 0s. Code is my
 - **Secret Weapon:** ChatGPT and a killer Spotify playlist.
 
 > "Coding is 10% writing genius solutions and 90% prompting why my semicolon broke the universe."
-> — Me, probably.
+> -Me, probably.
