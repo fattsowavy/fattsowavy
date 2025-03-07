@@ -6,3 +6,6 @@ I’m Muh Fatwah Fajriansyah M, a traveler in the realm of 1s and 0s. Code is my
 - **Favorite Skill:** Making “shouldn’t-work” code actually work.
 - **Arch-Nemesis:** Bugs that show up at 3 a.m.
 - **Secret Weapon:** ChatGPT and a killer Spotify playlist.
+
+> “Code is like poetry: beautiful if you get it, confusing if you don’t.”  
+> — Me, probably.
