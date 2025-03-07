@@ -7,5 +7,5 @@ I’m Muh Fatwah Fajriansyah M, a traveler in the realm of 1s and 0s. Code is my
 - **Arch-Nemesis:** Bugs that show up at 3 a.m.
 - **Secret Weapon:** ChatGPT and a killer Spotify playlist.
 
-> “Code is like poetry: beautiful if you get it, confusing if you don’t.”  
+> "Coding is 10% writing genius solutions and 90% prompting why my semicolon broke the universe."
 > — Me, probably.
