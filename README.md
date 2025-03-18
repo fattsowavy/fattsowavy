@@ -10,9 +10,6 @@ I’m **Muh Fatwah Fajriansyah M**, a traveler in the realm of 1s and 0s. Code i
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Coffee](https://img.shields.io/badge/Coffee-Powered-6F4E37?style=flat)
 
-### Now Playing on Spotify 🎧
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/spotify?uid=cxnmw28xh5y04ecckcfi4zchm)](https://open.spotify.com/user/cxnmw28xh5y04ecckcfi4zchm)
-
 ### Random Bits:
 - **Favorite Skill:** Making “shouldn’t-work” code actually work.
 - **Arch-Nemesis:** Bugs that show up at 3 a.m.
