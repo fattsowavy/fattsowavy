@@ -6,6 +6,8 @@ I’m **Muh Fatwah Fajriansyah M**, a traveler in the realm of 1s and 0s. Code i
 
 ### My Toolkit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Coffee](https://img.shields.io/badge/Coffee-Powered-6F4E37?style=flat)
 
 ### Random Bits:
 - **Favorite Skill:** Making “shouldn’t-work” code actually work.
