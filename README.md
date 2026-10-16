@@ -16,5 +16,4 @@ I’m **Muh Fatwah Fajriansyah M**, a traveler in the realm of 1s and 0s. Code i
 - **Arch-Nemesis:** Bugs that show up at 3 a.m.
 - **Secret Weapon:** ChatGPT and a killer Spotify playlist.
 
-> "Coding is 10% writing genius solutions and 90% prompting why my semicolon broke the universe."
-> -Me, probably.
+> "Coding is 10% writing genius solutions and 90% prompting how to center a div."
