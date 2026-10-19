@@ -17,10 +17,6 @@
 
 ---
 
-A traveler in the realm of 1s and 0s from **Makassar, Indonesia** 🕹️ I research **speech recognition for low-resource Indonesian dialects** and build apps with Python, Laravel and Flutter. Code is my canvas, the terminal is my stage, and coffee is my fuel ☕
-
-> 🏆 **ACHIEVEMENT UNLOCKED:** [IEEE paper on ASR for the Makassar dialect](https://doi.org/10.1109/IMCOM69009.2026.11360893) · IMCOM 2026
-
 ## `> NOW PLAYING`
 
 ```diff
