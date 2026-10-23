@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/sakura-mochi-cat.svg" width="100%" alt="A pixel mochi cat napping on a sakura branch under the moon" />
+  <img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/sakura-mochi-cat.svg" width="100%" alt="A pixel mochi cat napping on a sakura branch under the moon" />
 </p>
 
 ## `> RANDOM BITS`
