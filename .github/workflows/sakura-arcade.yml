@@ -1,0 +1,57 @@
+name: Sakura Arcade
+
+# Rebuilds every README screen. Daily run refreshes SAKURA SEASON and HIGH SCORES.
+on:
+  schedule:
+    - cron: "0 17 * * *" # 01:00 WITA
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/sakura-arcade.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sakura-arcade
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build screens
+        run: python scripts/sakura_arcade.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
+      - name: Commit & push
+        id: commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "Sakura Arcade: refresh screens"
+          git pull --rebase -X theirs
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Purge jsDelivr cache
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          for f in assets/*.svg; do
+            curl -s -o /dev/null "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/$f" || true
+          done
