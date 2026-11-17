@@ -1,60 +1,56 @@
 <div align="center">
 
-<a href="https://fattsowavy.github.io/fattsowavyy/">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2800&pause=900&color=F7C04A&center=true&vCenter=true&width=720&height=70&lines=MUH+FATWAH+FAJRIANSYAH+M;PLAYER+1+%E2%80%A2+READY;PRESS+START+TO+CONTINUE" alt="MUH FATWAH FAJRIANSYAH M" />
+<a href="https://fattsowavy.my.id/">
+  <img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/attract.svg" width="100%" alt="SAKURA ARCADE · MUH FATWAH FAJRIANSYAH M · Press start" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3200&pause=1200&color=F9A8D4&center=true&vCenter=true&width=720&height=30&lines=Informatics+Engineering+Student+%C2%B7+Researcher+%26+Developer;Speech+Recognition+%E2%80%A2+NLP+%E2%80%A2+Web+%26+Mobile+Apps;Fueled+by+coffee+and+3+a.m.+debugging" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3200&pause=1200&color=F49AB8&center=true&vCenter=true&width=720&height=30&lines=Informatics+Engineering+Student+%C2%B7+Researcher+%26+Developer;Speech+Recognition+%E2%80%A2+NLP+%E2%80%A2+Web+%26+Mobile+Apps;Fueled+by+coffee+and+3+a.m.+debugging" alt="Informatics Engineering Student · Researcher & Developer" />
 
-<br/>
+<a href="https://fattsowavy.my.id/"><img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/coin-portfolio.svg" height="44" alt="Portfolio" /></a>
+<a href="https://fattsowavy.my.id/cv.pdf"><img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/coin-cv.svg" height="44" alt="CV" /></a>
+<a href="https://linkedin.com/in/fatwafajriansyah"><img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/coin-linkedin.svg" height="44" alt="LinkedIn" /></a>
+<a href="mailto:fatwaaf66@gmail.com"><img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/coin-email.svg" height="44" alt="Email" /></a>
 
-<a href="https://fattsowavy.github.io/fattsowavyy/"><img src="https://img.shields.io/badge/%E2%96%B6%20PRESS%20START-PORTFOLIO-F7C04A?style=for-the-badge&labelColor=0D0D17" alt="Portfolio"/></a>
-<a href="https://fattsowavy.github.io/fattsowavyy/cv.pdf"><img src="https://img.shields.io/badge/%F0%9F%92%BE%20LOAD-CV-F9A8D4?style=for-the-badge&labelColor=0D0D17" alt="CV"/></a>
-<a href="https://linkedin.com/in/fatwafajriansyah"><img src="https://img.shields.io/badge/LINKEDIN-0D0D17?style=for-the-badge&logo=linkedin&logoColor=F7C04A" alt="LinkedIn"/></a>
-<a href="mailto:fatwaaf66@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D0D17?style=for-the-badge&logo=gmail&logoColor=F7C04A" alt="Email"/></a>
+<br /><br />
+
+<img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/mochi-says.svg" width="100%" alt="Mochi says: Main quest - teaching machines to understand my thoughts. Side quest - web and mobile apps with Laravel and Flutter. Grinding - natural language processing." />
+
+<br /><br />
+
+<img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/character-select.svg" width="100%" alt="Character select: Fatwah, researcher and developer from Universitas Muslim Indonesia, Makassar" />
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,php,laravel,dart,flutter,cpp,mysql,react,tailwind,git,vscode&theme=dark&perline=12" alt="Skills: Python, PyTorch, PHP, Laravel, Dart, Flutter, C++, MySQL, React, Tailwind, Git, VS Code" />
+
+<br /><br />
+
+<img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/cartridge-title.svg" width="100%" alt="Cartridge select" />
+
+<a href="https://iclabs.fikom.umi.ac.id/peminjaman-ruangan/"><img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/cart-lab-loan.svg" width="32%" alt="Lab Loan System" /></a>
+<a href="https://github.com/fattsowavy/lab-chatbot"><img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/cart-lab-chatbot.svg" width="32%" alt="Lab Chatbot" /></a>
+<a href="https://github.com/fattsowavy/BitBooth"><img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/cart-bitbooth.svg" width="32%" alt="BitBooth" /></a>
+<a href="https://github.com/fattsowavy/Cinema-Seat-Book"><img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/cart-cinema.svg" width="32%" alt="Cinema Seat Book" /></a>
+<a href="https://github.com/fattsowavy/Shorterner-Url-and-QrCode-Generator"><img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/cart-shortener.svg" width="32%" alt="URL Shortener + QR" /></a>
+<a href="https://fattsowavy.my.id/"><img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/cart-portfolio.svg" width="32%" alt="Portfolio" /></a>
+
+<sub>🕹️ Pick a cartridge to play</sub>
+
+<br /><br />
+
+<a href="https://doi.org/10.1109/IMCOM69009.2026.11360893"><img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/achievement.svg" width="100%" alt="Achievement unlocked: IEEE paper published - ASR for the Makassar dialect, IMCOM 2026" /></a>
+
+<img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/sakura-season.svg" width="100%" alt="Sakura season: my contributions over the last year, drawn as sakura blossoms" />
+
+<img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/high-scores.svg" width="100%" alt="High scores: contributions, commits, streaks, repositories and top languages" />
+
+<sub>Updated daily by GitHub Actions</sub>
 
 </div>
 
----
+<br />
 
-## `> NOW PLAYING`
-
-```diff
-+ [MAIN QUEST]  Teaching machines to understand my thougts
-+ [SIDE QUEST]  Building web & mobile apps with Laravel and Flutter
-! [GRINDING]    Leveling up in Natural Language Processing
-```
-
-## `> INVENTORY`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coffee-Powered-6F4E37?style=flat-square&logo=buymeacoffee&logoColor=white" />
-</p>
-
-## `> HIGH SCORES`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fattsowavy&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D0D17&title_color=F7C04A&text_color=E6E6F0&icon_color=F9A8D4&border_color=4A5578&custom_title=PLAYER%201%20STATS" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fattsowavy&layout=compact&langs_count=8&bg_color=0D0D17&title_color=F7C04A&text_color=E6E6F0&border_color=4A5578&custom_title=MOST%20USED%20WEAPONS" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fattsowavy&background=0D0D17&border=4A5578&ring=F7C04A&fire=F9A8D4&currStreakNum=F7C04A&sideNums=E6E6F0&currStreakLabel=F7C04A&sideLabels=E6E6F0&dates=8B93B5" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/sakura-mochi-cat.svg" width="100%" alt="A pixel mochi cat napping on a sakura branch under the moon" />
-</p>
-
-## `> RANDOM BITS`
+<details>
+<summary><img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/cheat-code.svg" width="100%" alt="Enter cheat code: click to unlock" /></summary>
+<br />
 
 ```diff
 + FAVORITE SKILL ... Making "shouldn't-work" code actually work
@@ -64,10 +60,14 @@
 
 > *"Coding is 10% writing genius solutions and 90% prompting how to center a div."*
 
+</details>
+
+<br />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2500&pause=800&color=3DDC84&center=true&vCenter=true&width=500&height=30&lines=INSERT+COIN+TO+CONTINUE;THANKS+FOR+PLAYING!" alt="Insert coin" />
+<img src="https://cdn.jsdelivr.net/gh/fattsowavy/fattsowavy@main/assets/continue.svg" width="100%" alt="Continue? Thanks for playing!" />
 
-<img src="https://komarev.com/ghpvc/?username=fattsowavy&label=VISITORS&color=3DDC84&style=flat-square&labelColor=0D0D17" alt="Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=fattsowavy&label=PLAYERS&color=E9799C&style=flat-square&labelColor=14101F" alt="Players" />
 
 </div>
